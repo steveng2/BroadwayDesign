@@ -1,0 +1,71 @@
+* {
+  margin-right: auto;
+  margin-top:  auto;
+}
+
+#wrapper {
+  width: 1100px;
+  text-align: center;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    background-image: url('../images/the-flatiron-building.png');
+}
+ #bigheader {
+     color: white;
+     font-family: Helvetica;
+     height: 300px;
+     width: auto;
+     background-image: url('../images/the-flatiron-building.png');
+
+
+}/* bigger header for image */
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
+h3 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+    font-size: 14px;
+}
+/*element for design in New  York */
+.title {
+        background-image: url('the-flatiron-building.png');
+          }
+
+ a.toplistitem, ul.toplistitem {
+      font-family: Helvetica;
+      color: white;
+      font-size: 18px;
+      padding-top: 5px;
+      margin-top: 3px;
+      list-style: none;
+}
+
+footer {
+      background-color: dimgray;
+      font-family: Helvetica;
+      color: white;
+       font-size: 11px;
+}
+/* bottom links for nav */
+ a.bottomlink, li.bottomlink,  ul.bottomlink {
+      font-family: Helvetica;
+      color: white;
+      font-size: 11px;
+      list-style: none;
+      display: inline;
+      float: none;
+}
